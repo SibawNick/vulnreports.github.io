@@ -1,1 +1,0 @@
-# vulnreports.github.io
